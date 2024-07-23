@@ -1,3 +1,5 @@
+
+
 def containsDuplicate(nums):
     seen = set() # Use a set to keep track of seen
     for num in nums:
