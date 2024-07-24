@@ -9,6 +9,6 @@ def containsDuplicate(nums):
             seen.add(num)
     return False
 
-nums = [1, 2, 3, 4, 1]
+nums = [1, 2, 3, 4, 4]
 result = containsDuplicate(nums)
 print(result)
